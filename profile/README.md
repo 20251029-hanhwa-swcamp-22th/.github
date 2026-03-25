@@ -29,6 +29,8 @@
 - [Team 1](https://github.com/20251029-hanhwa-swcamp-22th/be22-final-team1-project)
 - [Team 2](https://github.com/20251029-hanhwa-swcamp-22th/be22-final-team2-project)
 - [Team 3](https://github.com/20251029-hanhwa-swcamp-22th/be22-final-team3-project)
+- [Final 프로젝트 워크스페이스(Submodule)](https://github.com/hanhwa-swcamp-22th-final)
+- [Submodule Guide](https://github.com/20251029-hanhwa-swcamp-22th/git_submodule)
 
 </details>
 
